@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: salikhov
+Build-Jdk: 15.0.2
+Main-Class: Laba2/subversion
+Created-By: Maven Integration for Eclipse
+
