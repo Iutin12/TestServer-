@@ -2,13 +2,13 @@
 
 dir
 104
-http://xn--e1afhkfagivn.xn--p1ai/svn/project12/trunk/Hello/target/classes
+http://xn--e1afhkfagivn.xn--p1ai/svn/project12/trunk/Hello/src/main/java
 http://xn--e1afhkfagivn.xn--p1ai/svn/project12
 
 
 
-2020-12-22T15:03:05.267267Z
-55
+2020-12-26T14:34:36.854675Z
+103
 user112
 
 
@@ -28,42 +28,4 @@ svn:special svn:externals svn:needs-lock
 
 Laba2
 dir
-
-
-
-delete
-
-логотип.jpg
-file
-
-
-
-delete
-2021-02-20T07:21:28.678000Z
-c572f540b4a42c8be031f2d67841ebb5
-2020-12-15T10:18:18.341233Z
-36
-user212
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3051
 

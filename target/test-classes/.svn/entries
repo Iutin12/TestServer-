@@ -2,14 +2,14 @@
 
 dir
 104
-http://xn--e1afhkfagivn.xn--p1ai/svn/project12/trunk/Hello/target/test-classes
+http://xn--e1afhkfagivn.xn--p1ai/svn/project12/trunk/Hello/src/test/java
 http://xn--e1afhkfagivn.xn--p1ai/svn/project12
 
 
 
-2020-12-15T10:18:18.341233Z
-36
-user212
+2020-12-26T14:34:36.854675Z
+103
+user112
 
 
 svn:special svn:externals svn:needs-lock
@@ -25,4 +25,13 @@ svn:special svn:externals svn:needs-lock
 
 
 628f3689-7db1-44fc-b4ce-beca32b3c235
+
+Laba
+dir
+
+Laba2
+dir
+
+Laba5
+dir
 

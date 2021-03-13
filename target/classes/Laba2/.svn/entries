@@ -2,14 +2,14 @@
 
 dir
 104
-http://xn--e1afhkfagivn.xn--p1ai/svn/project12/trunk/Hello/target/classes/Laba2
+http://xn--e1afhkfagivn.xn--p1ai/svn/project12/trunk/Hello/src/main/java/Laba2
 http://xn--e1afhkfagivn.xn--p1ai/svn/project12
-delete
 
 
-2020-12-15T10:18:18.341233Z
-36
-user212
+
+2020-12-26T14:34:36.854675Z
+103
+user112
 
 
 svn:special svn:externals svn:needs-lock
@@ -26,17 +26,17 @@ svn:special svn:externals svn:needs-lock
 
 628f3689-7db1-44fc-b4ce-beca32b3c235
 
-ListenerButton.class
+ArrayInfo.java
 file
 
 
 
-delete
-2021-02-20T07:21:28.450000Z
-e901850b04d8f5c74db5303aae816a37
-2020-12-15T10:18:18.341233Z
-36
-user212
+
+2021-02-20T07:21:27.094000Z
+30818efdb6585e70aa8df4e70bef0d54
+2020-12-26T14:34:36.854675Z
+103
+user112
 has-props
 
 
@@ -58,20 +58,19 @@ has-props
 
 
 
-527
+1329
 
-inform_button.class
+ListenerButton.java
 file
 
 
 
-delete
-2021-02-20T07:21:28.502000Z
-7ec76c961c35787df7ceccf71ca8ae87
-2020-12-15T10:18:18.341233Z
-36
-user212
-has-props
+
+2021-02-20T07:21:27.186000Z
+188cc0c4f7f5ba672078bd253731ee22
+2020-12-13T11:14:44.859085Z
+35
+user112
 
 
 
@@ -92,19 +91,20 @@ has-props
 
 
 
-3468
+
+445
 
-subversion$1.class
+Mass.java
 file
 
 
 
-delete
-2021-02-20T07:21:28.530000Z
-d13718a800260aaca918deae6d6cb69a
-2020-12-15T10:18:18.341233Z
-36
-user212
+
+2021-02-20T07:21:27.282000Z
+12f00993f30e07096f58a8937c116726
+2020-12-26T14:34:36.854675Z
+103
+user112
 has-props
 
 
@@ -126,18 +126,52 @@ has-props
 
 
 
-1540
+393
 
-subversion.class
+Sort.java
 file
 
 
 
-delete
-2021-02-20T07:21:28.574000Z
-3e2562d78de304e03020e05c20229c71
-2020-12-15T10:18:18.341233Z
-36
+
+2021-02-20T07:21:27.358000Z
+4bac12c3e8e90162466cd78dab630edb
+2020-12-26T14:34:36.854675Z
+103
+user112
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+365
+
+Text.txt
+file
+
+
+
+
+2021-02-20T07:21:27.426000Z
+159e4ab25bea3fa3b2734fe1684a5564
+2020-12-18T05:54:41.523056Z
+41
 user212
 has-props
 
@@ -160,5 +194,107 @@ has-props
 
 
 
-4497
+156
+
+inform_button.java
+file
+
+
+
+
+2021-02-20T07:21:27.498000Z
+52f173deb2cb7ccf108931a09bcd9ef1
+2020-12-26T14:34:36.854675Z
+103
+user112
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2079
+
+randomizer.java
+file
+
+
+
+
+2021-02-20T07:21:27.542000Z
+9dff81954a1328ce889e05f530c11e6b
+2020-12-26T14:34:36.854675Z
+103
+user112
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+144
+
+subversion.java
+file
+
+
+
+
+2021-02-20T07:21:27.610000Z
+e610f74733cafec241b996481f52ad93
+2020-12-26T14:34:36.854675Z
+103
+user112
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7393
 
