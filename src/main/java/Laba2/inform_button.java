@@ -35,11 +35,15 @@ public class inform_button implements ActionListener {
 		JButton button_back = new JButton("Назад");// добавляем кнопку Назад
 		JTextField name = new JTextField("Разработчик 2 Бесполитов Д.А. 13.03.2021");
 		JTextField name2 = new JTextField("Модератор - Салихов Р.Н.");
+		JTextField name3 = new JTextField("Разработчик 1 - Иутин А.С. 13.03.2021");
 		panel.add(name2);
+		panel.add(name3);
 		panel.add(name);
+		
 		name2.setEditable(false);
 		name.setEditable(false);
-
+		name3.setEditable(false);
+		
 		button_back.setBounds(450, 420, 100, 50);
 		button_back.setVisible(true);
 		button_back.addActionListener(actionEvent ->  {
